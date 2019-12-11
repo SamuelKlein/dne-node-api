@@ -1,5 +1,5 @@
 import { config as configuration } from "../common/config";
-import { DBConnection } from "../interfaces/dbConnection.interface";
+import { DBConnection } from "../interfaces/dbconnection.interface";
 const Sequelize = require('sequelize')
 
 let db = null
